@@ -15,17 +15,23 @@
 
 - authentification admin: admin@admin
 - password admin: adminx10
+
+
 						+------------------------------------------------+
 						|Les librairies externes utilisées dans le projet|
 						+------------------------------------------------+
+						
+						
 
 - https://github.com/filp/whoops
 - https://symfony.com/doc/current/components/var_dumper.html
 
 
+
 							+-----------------+
 							| Fonctionnalités |
 							+-----------------+
+
 
 - Gestion d'un profils Admin et de son Dashboard.
 - connexion / deconnexion de l'Admin.
