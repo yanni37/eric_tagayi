@@ -1,0 +1,11 @@
+{
+  "name": "eric_tagayi",
+  "version": "1.0.0",
+  "description": "+================================================+                                                |  DOSSIER COMPLET DE MON PROJET DE FIN D'ANNÉE  |                                                +================================================+ \t\t\t\t\t\t\tSite vitrine pour kinesitherapeute \t\t\t\t\t\t\t    POUR MONSIEUR ERIC TAGAYI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
