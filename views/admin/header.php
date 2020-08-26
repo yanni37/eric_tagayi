@@ -19,7 +19,7 @@
     <!-- JavaScript FLEXLSIDER -->
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"
         integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="public/js/jquery.flexslider-min.js"></script>
+    <script src="public/js/jquery.flexslider-min.js"></script>
 
     <title> Eric Tagayi - Kinésithérapeute </title>
 </head>
@@ -29,9 +29,10 @@
         <a href="index.php?class=front&action=index" class="logo"><img src="public/img/kine_logo_2.jpg" alt="logo"></a>
         <h1>BIENVENUE SUR VOTRE ESPACE </h1>
         <nav>
-            <a class="" href="index.php?class=user&action=logout"> deconnexion</a>
+            <a class="" href="index.php?class=user&action=logout"> Deconnexion</a>
+            <a class="" href="index.php?class=admin&action=index"> Articles</a>
             <a class="" href="index.php?class=admin&action=messages"> Messages</a>
             <a class="" href="index.php?class=category&action=index"> Categories</a>
+            
         </nav>
-        </div>
     </header>

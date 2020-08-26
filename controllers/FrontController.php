@@ -12,10 +12,6 @@ class FrontController extends Controller
     {
         $this->render("front/contact");
     }
-    public function calendar()
-    {
-        $this->render("front/calendrier_ajax");
-    }
     public function soins() {
         $soins = [];
         $categories = Category::getAllCategories();

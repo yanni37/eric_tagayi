@@ -1,7 +1,8 @@
 "use strict";
 
 /**************Récupération des données de formulaire au moyen d'ajax sans rechargement de la page */
-$(document).on('submit', "#contact");
+
+$(document).on('submit', "#contact", submitContact);
 
 /******** Flexslider *********/
 

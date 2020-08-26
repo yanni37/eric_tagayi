@@ -7,13 +7,13 @@
 <div id="myDIV" class="container container-flex">
     <h1 class="container">SOINS</h1>
     <table>
-
         <thead>
-            <th>Titre</th>
-            <th>Contenu</th>
-            <th>images</th>
-
-            <th>Actions</th>
+            <tr>
+                <th>Titre</th>
+                <th>Contenu</th>
+                <th>images</th>
+                <th>Actions</th>
+            </tr>
         </thead>
         <tbody>
             <?php foreach($soins as $soin) :?>
@@ -32,7 +32,7 @@
         </tbody>
     </table>
 </div>
-<a href="index.php?class=admin&action=ajouter"><input type="button" value="Ajouter un soin" class="fields"></a>
+<a href="index.php?class=admin&action=ajouter">Ajouter un soin</a>
 
 <script src="public/js/hidden_div.js"></script>
 <!-- FOOTER -->

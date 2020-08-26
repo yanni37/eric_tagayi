@@ -11,7 +11,7 @@
         <!-- FENETRE MODAL POUR CONNEXION ADMIN -->
 
         <div id="dialog" role="dialog" aria-labelledby="dialog-title" aria-describedby="dialog-desc" aria-modal="true"
-            aria-hidden="true" tabindex="-1" class="container c-dialog">
+            aria-hidden="true" tabindex="-1" class="c-dialog">
             <div role="document" class="c-dialog__box">
                 <button type="button" aria-label="Fermer" title="Fermer cette fenêtre modale"
                     data-dismiss="dialog">X</button>
@@ -40,9 +40,10 @@
 </footer>
 
     <!-- JavaScript  -->
-<script type="text/javascript" src="public/js/app.js"></script>
-<script type="text/javascript" src="public/js/sticky_header.js"></script>
-<script type="text/javascript" src="public/js/login_modal.js"></script>
+<script src="public/js/ajax.js"></script>
+<script src="public/js/app.js"></script>
+<script src="public/js/sticky_header.js"></script>
+<script src="public/js/login_modal.js"></script>
 
 </body>
 

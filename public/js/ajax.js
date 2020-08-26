@@ -10,7 +10,7 @@ function submitContact(e){
         data: {
             email: $("#email").val(),
             sujet: $("#sujet").val(),
-            contenue: $("#contenue").val()
+            contenue: $("#contenu").val()
         }
     }).done(function(r){
         if(r.result == "success")

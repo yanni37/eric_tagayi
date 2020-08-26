@@ -27,7 +27,7 @@
         <?php endforeach; ?>
     </tbody>
 </table>
-
+</div>
 
 <!-- FOOTER -->
 <?php require_once "views/admin/footer.php"; ?>

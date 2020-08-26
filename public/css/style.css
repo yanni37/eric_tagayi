@@ -268,21 +268,20 @@ section {
 }
 
 table {
-	border: medium solid #6495ed;
+	border: medium solid #e13648;
 
 }
 
 th {
 	font-family: monospace;
-	border: thin solid #6495ed;
+	border: thin solid #e13648;
 	padding: 5px;
 	background-color: #D0E3FA;
-	background-image: url(sky.jpg);
 }
 
 td {
 	font-family: sans-serif;
-	border: thin solid #6495ed;
+	border: thin solid #e13648;
 	text-align: center;
 	background-color: #ffffff;
 }

@@ -17,6 +17,8 @@
         </section>
         <?php endforeach; ?>
         
+
+            </main>
         <!-- FOOTER -->
         <?php require_once "views/front/footer.php"; ?>
         <!-- FOOTER -->

@@ -10,8 +10,9 @@
 </footer>
 
     <!-- JavaScript  -->
-<script type="text/javascript" src="public/js/app.js"></script>
-<script type="text/javascript" src="public/js/login_modal.js"></script>
+<script src="public/js/ajax.js"></script>
+<script src="public/js/app.js"></script>
+<script src="public/js/login_modal.js"></script>
 
 </body>
 

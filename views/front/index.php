@@ -70,7 +70,7 @@
             <div class="clearFloat"></div>
         </section>
 
-        
+</main>
 
         <!-- FOOTER -->
         <?php require_once "views/front/footer.php"; ?>

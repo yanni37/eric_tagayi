@@ -33,7 +33,7 @@
 </table>
 </div>
 
-<a href="index.php?class=category&action=addCategory&id=<?= $categorie->getId() ?>"> <input type="button" value="Ajouter un soin" class="fields"> </a>
+<a href="index.php?class=category&action=addCategory&id=<?= $categorie->getId() ?>">ajouter un soin</a>
 
 <script src="public/js/hidden_div.js"></script>
 <!-- FOOTER -->
